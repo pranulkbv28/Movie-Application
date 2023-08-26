@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(2, 2, 44);
+}
+.title {
+  color: #ff0;
+  font-family: 'Akaya Kanadaka', cursive;
+  text-align: center;
+  font-size: 60px;
+  margin-top: 15px;
+}
+.title a{
+    color: #ff0;
+    text-decoration: none;
+}
