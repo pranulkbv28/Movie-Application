@@ -12,3 +12,21 @@ body {
     color: #ff0;
     text-decoration: none;
 }
+.search-bar{
+    text-align: center;
+    position: relative;
+}
+#movieName{
+    width: 40%;
+    /* outline: rgb(2, 2, 44); */
+    padding: 10px 24px;
+    background-color: rgba(0, 0, 116, 0.614);
+    border: none;
+    color: rgb(255, 255, 255);
+    border-radius: 16px;
+}
+.search-icon{
+    position: absolute;
+    right: 29%;
+    top: 28%;
+}
