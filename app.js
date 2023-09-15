@@ -20,6 +20,7 @@ movieContainer.classList.add("d-none");
 animationLoader.classList.add("d-none");
 
 function search() {
+  movieContainer.classList.add("d-none");
   animationLoader.classList.remove("d-none");
   let query = api + movieName.value;
   fetch(query)
