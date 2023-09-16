@@ -1,5 +1,6 @@
 body {
-  background-color: rgb(2, 2, 44);
+  /* background-color: rgb(2, 2, 44); */
+  background-color: red;
 }
 .title {
   color: #ff0;
